@@ -1,0 +1,8 @@
+{
+  "name": "Straßen-Scanner",
+  "description": "Erkennt Straßenschilder via Kamera und ermittelt den zugehörigen Bezirk basierend auf komplexer Hausnummernlogik mit Sprachausgabe.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
